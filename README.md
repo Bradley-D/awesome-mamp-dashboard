@@ -20,6 +20,7 @@ Ok, calm down skipper. You know how you renamed the original index file from the
 
 ## Notes
 - This file does not check for the language like the original file so please fork this file and make any language changes you need.
+- I gave myself a link credit in the footer of the dashboard, keep it, delete it, it is up to you.
 
 ## Credits
 - Bootstrap v4 (https://getbootstrap.com/)
