@@ -3,8 +3,8 @@ A better dashboard for those times you need to use MAMP.
 
 Sometimes I need to use MAMP (the free edition) for PHP and WordPress development and I wanted a better dashboard once I clicked on "My Websites" from the MAMP start page, so here it is.
 
-## What Does This Do?
-The index file replaces the index.php file that is the MAMP htdocs folder.
+## What Does It Look Like?
+![alt text](https://bradley-davis.com/wp-content/uploads/2018/11/Awesome-MAMP-Dashboard.png)
 
 ## How To Use
 - Download this index.php file
