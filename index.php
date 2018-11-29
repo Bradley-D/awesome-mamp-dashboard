@@ -32,7 +32,7 @@ $dirs     = array_diff( scandir( $dir_path ), array('..', '.'));
 				<div class="row">
 					<div class="col-md-12 px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
 						<h2 class="display-4">Awesome MAMP Dashboard</h2>
-						<p class="lead">Here is all the directories from the htdoc folder that you are working. Keep the awesomeness going!</p>
+						<p class="lead">Here is all the directories from the htdoc folder that you are working on. Keep the awesomeness going!</p>
 					</div>
 				</div>
 			</div>
